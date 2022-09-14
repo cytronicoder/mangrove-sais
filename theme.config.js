@@ -12,8 +12,6 @@ export default {
     ),
     head: (
         <>
-            <meta name="msapplication-TileColor" content="#ffffff" />
-            <meta name="theme-color" content="#ffffff" />
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <meta httpEquiv="Content-Language" content="en" />
             <meta name="description" content="An overview of the mangrove planting project at SAIS (in collaboration with LooLa Eco Adventure)" />
@@ -22,9 +20,10 @@ export default {
             <meta name="twitter:image" content="https://mangrove-sais.vercel.app/og.png" />
             <meta name="twitter:site:domain" content="mangrove-sais.vercel.app" />
             <meta name="twitter:url" content="https://mangrove-sais.vercel.app" />
-            <meta name="og:title" content="An overview of the mangrove planting project at SAIS (in collaboration with LooLa Eco Adventure)" />
+            <meta name="og:title" content="SAIS Service CCA
+x LooLa Eco Adventure" />
             <meta name="og:image" content="https://mangrove-sais.vercel.app/og.png" />
-            <meta name="apple-mobile-web-app-title" content="SAIS Service CCA" />
+            <meta name="apple-mobile-web-app-title" content="SAIS Service CCA x LooLa Eco Adventure" />
         </>
     ),
     search: true,
